@@ -8,4 +8,4 @@ author = "thesebas"
 author-email = "thesebas@thesebas.net"
 home-page = "https://github.com/thesebas/pyfoo"
 classifiers = ["License :: OSI Approved :: MIT License"]
-
+description-file = "README.md"
